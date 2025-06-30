@@ -1,0 +1,27 @@
+.python-version
+*.pyc
+__pycache__/
+.idea/
+
+# environments
+.env
+.env.template
+.env.dev
+.env.staging
+.env.production
+.env*
+
+env
+.venv/
+venv/
+
+# sqlite
+db.sqlite3
+
+# extras
+readme-guide.md
+todos.md
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
